@@ -20,13 +20,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'houseshare' );
+define( 'DB_NAME', 'chlhouseshareproduction' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'psr' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'global@123' );
+define( 'DB_PASSWORD', 'psr@123' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
@@ -48,14 +48,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         'RWu]:6&Zc0%x,wyP.:GW*lYP?7Sm71O)X{(PHs@emD%q2Wpk|VrG}Urfk&H8SN&,' );
-define( 'SECURE_AUTH_KEY',  '%=Qw3O.&TB~#nE>69/`!a<E%cwc^lDXU@{jSy,mr+{4|<4;vBz.MP3u&DQrFGWyv' );
-define( 'LOGGED_IN_KEY',    'L:@^y~zxDl]r0a }6+~,52?5.m<L}b%tM/p:zPPU@0o5Zlrxcq4Xc]LvZ7NO9,Ah' );
-define( 'NONCE_KEY',        '=GI@.LcJ|[EN|9E%)szfs6}nspmV%FG7z:p]g6U<iW-H2yv:gH!F5p!>4yFBA;%B' );
-define( 'AUTH_SALT',        '[5ah*0.yh}B{t@uY} `J_>iWAzCzIfrg@m%CR_(x$=G~l}<13rdgUIfy,9@u]cs8' );
-define( 'SECURE_AUTH_SALT', '[gE)PZ[*7Z8b_:Sq0<!7=)>l)Wmsc^GeV<au*sg/QQFDG$j+6WAG%t`x:6>9V6*_' );
-define( 'LOGGED_IN_SALT',   'wr}Zw{ KJwk<XQCJ%bY<3dkp9HW#OF}nUcXY.k ZHcvZoR[::;BLeVFo(Z;kco:?' );
-define( 'NONCE_SALT',       'IKeUjoJO#<F<6uX&ruPoZ7EJ^5 FJxW4Jn_7j#q-4,YNw>Yz8$Y-&Lh}:JmW}pB%' );
+define( 'AUTH_KEY',         '`l)8ud?iv=4x-Qv&:zI*R=Z:=>|Oy1{YGD~A%Z`?$oe+< Ctv|yR~SToK~0{>&@|' );
+define( 'SECURE_AUTH_KEY',  '!6_qYPsrYqV9H,R8W/!n/-H0FN; #,M4Qk^%v0;z8dr$FI.LaYR>]=p@m(p6GAqO' );
+define( 'LOGGED_IN_KEY',    'r!#x3.w#SB/n){R`$a;OQx,3|+>-lj,f`m)fh;wdo(OBL,U&O/(t65y%~{)7D}#r' );
+define( 'NONCE_KEY',        '9/QmsVVwxoJRvNDA~_lzinA0DD,s5w6I4sQo$OkQIW3}wfplzj#9;fYy7uf_3}.m' );
+define( 'AUTH_SALT',        'mS=zXLz$5G3|DD^3CdyW*Y4di| UY-2B>97Ql`fM/-`*MO#YW0{$=o(S]7.g8Mv1' );
+define( 'SECURE_AUTH_SALT', 'Q(u4G?MO6k|Q4;}|-^5hx$`JSQS;bwt7yy$2{[yl+&%)6_#do%#kU:Psb*WAqhwg' );
+define( 'LOGGED_IN_SALT',   'g{xB|:{v>=f>|dq|_8C#MG@yP0zA!&ZdFO~2-/ov(YS34,5#@k5Pn$$$-$QEFCjU' );
+define( 'NONCE_SALT',       '$9!69y@r&@|Hrqi5X,M-[us$/*8=K-I]7ZD](K%(0>@02l=qjj2kE8KdV. d)4Uf' );
 
 /**#@-*/
 

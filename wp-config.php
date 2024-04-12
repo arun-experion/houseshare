@@ -20,13 +20,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'houseshare' );
+define( 'DB_NAME', 'chlhouseshareproduction' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'athul' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'global@123' );
+define( 'DB_PASSWORD', 'athul@123' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
@@ -48,14 +48,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         'RWu]:6&Zc0%x,wyP.:GW*lYP?7Sm71O)X{(PHs@emD%q2Wpk|VrG}Urfk&H8SN&,' );
-define( 'SECURE_AUTH_KEY',  '%=Qw3O.&TB~#nE>69/`!a<E%cwc^lDXU@{jSy,mr+{4|<4;vBz.MP3u&DQrFGWyv' );
-define( 'LOGGED_IN_KEY',    'L:@^y~zxDl]r0a }6+~,52?5.m<L}b%tM/p:zPPU@0o5Zlrxcq4Xc]LvZ7NO9,Ah' );
-define( 'NONCE_KEY',        '=GI@.LcJ|[EN|9E%)szfs6}nspmV%FG7z:p]g6U<iW-H2yv:gH!F5p!>4yFBA;%B' );
-define( 'AUTH_SALT',        '[5ah*0.yh}B{t@uY} `J_>iWAzCzIfrg@m%CR_(x$=G~l}<13rdgUIfy,9@u]cs8' );
-define( 'SECURE_AUTH_SALT', '[gE)PZ[*7Z8b_:Sq0<!7=)>l)Wmsc^GeV<au*sg/QQFDG$j+6WAG%t`x:6>9V6*_' );
-define( 'LOGGED_IN_SALT',   'wr}Zw{ KJwk<XQCJ%bY<3dkp9HW#OF}nUcXY.k ZHcvZoR[::;BLeVFo(Z;kco:?' );
-define( 'NONCE_SALT',       'IKeUjoJO#<F<6uX&ruPoZ7EJ^5 FJxW4Jn_7j#q-4,YNw>Yz8$Y-&Lh}:JmW}pB%' );
+define( 'AUTH_KEY',         '3j5<[*}*%J1M|tzt0VX;A{oz3(x)W&0({MO.)sg8He}(@:LpgA!#2#,|4$6lefy#' );
+define( 'SECURE_AUTH_KEY',  '~~O(vd:^*myT9{C<$7SgM<:b>i`HCJ,(XhH(js<b*!RVq*?oQU&z.aI@,*_G{4Hn' );
+define( 'LOGGED_IN_KEY',    'qTmc?E]+[J?Tzxm,V0o=bRcwqAv;SznBy57JL%hQc(lPNsIHv&Xg+U<lG;5A~NO=' );
+define( 'NONCE_KEY',        'OGox:N9}W3X79?Iu`<V i00.Gc|0@)0exA/Uw=NG1h#BS@.l!4/<(D|&F0-QVSl-' );
+define( 'AUTH_SALT',        '2Ty>IBs2RiITC2xr*J(suLlrWJkS/3W(7`*Niy2-0%PcL`J92eg4:tvuljCBl:w0' );
+define( 'SECURE_AUTH_SALT', 'I@67|lSdJL!tZYgOs&?j,wT>A2]gWCQD?/SfarOU=VO$94DydfBn)&t&19wOg#?5' );
+define( 'LOGGED_IN_SALT',   'RlM-IKATp#ar7[;3}%,O ?S498C%~74vaZwsAU]Im8@92M]r/YC.&Hu&;=$QdI(,' );
+define( 'NONCE_SALT',       'StY{=k2Vw%kKRcn.gF^5vNm/+)A[nnp~6Ryc.4u<$4Mm#xMBkW1)4~wF)u:^Y`mu' );
 
 /**#@-*/
 
